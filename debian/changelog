@@ -1,0 +1,35 @@
+kittens (1.3.2-2trusty) trusty; urgency=medium
+
+  * upload to new PPA
+
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Mon, 26 Jan 2015 14:30:54 +0200
+
+kittens (1.3.2-1trusty) trusty; urgency=low
+
+  * build for trusty
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 04 Apr 2014 14:04:03 +0200
+
+kittens (1.3.2-1precise1) precise; urgency=low
+
+  * new upstream release, adds optional package to icon search path
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Tue, 04 Feb 2014 12:39:13 +0200
+
+kittens (1.3.1-1precise2) precise; urgency=low
+
+  * fix name (python-kittens)
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Tue, 28 Jan 2014 16:52:33 +0200
+
+kittens (1.3.1-1precise1) precise; urgency=low
+
+  * new upstream release
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 24 Jan 2014 15:20:22 +0200
+
+kittens (1.3.0-1precise1) precise; urgency=low
+
+  * Initial release
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 24 Jan 2014 12:35:59 +0200
