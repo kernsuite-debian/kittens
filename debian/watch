@@ -1,0 +1,2 @@
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/kittens-$1\.tar\.gz/ \
+  https://github.com/ska-sa/kittens/tags .*/?(\d\S*)\.tar\.gz
