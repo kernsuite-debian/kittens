@@ -3,7 +3,7 @@ Section: python
 Priority: extra
 Maintainer: KERN packaging <packaging@kernsuite.info>
 Build-Depends: debhelper (>= 9.0.0), python-all, python-setuptools
-Standards-Version: 3.9.6
+Standards-Version: 3.9.7
 Homepage: https://github.com/ska-sa/kittens
 Vcs-Git: https://github.com/kernsuite-debian/kittens
 Vcs-Browser: https://github.com/kernsuite-debian/kittens
@@ -16,5 +16,5 @@ Description: Collection of Python utility functions for purr, tigger, meqtrees a
 
 Package: kittens
 Architecture: any
-Depends: python-kittens
-Description: Collection of Python utility functions for purr, tigger, meqtrees and others
+Depends: ${misc:Depends}, python-kittens
+Description: Metapackage for kittens
