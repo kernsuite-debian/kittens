@@ -1,6 +1,7 @@
-kittens (1.3.3-1kern3) xenial; urgency=medium
+kittens (1.3.3-1kern4) xenial; urgency=medium
 
   * update signature
+  * fix lintian warnings
 
  -- KERN packaging <packaging@kernsuite.info>  Tue, 07 Nov 2017 16:15:14 +0200
 
