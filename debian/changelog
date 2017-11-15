@@ -1,3 +1,9 @@
+kittens (1.3.3-1kern5) xenial; urgency=medium
+
+  * add kitten actually to the python-kittens package
+
+ -- KERN packaging <packaging@kernsuite.info>  Wed, 15 Nov 2017 15:15:02 +0200
+
 kittens (1.3.3-1kern4) xenial; urgency=medium
 
   * update signature
