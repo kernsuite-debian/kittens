@@ -1,3 +1,9 @@
+kittens (1.3.3-1kern6) bionic; urgency=medium
+
+  * update to Bionic
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 09 Apr 2018 12:28:19 +0000
+
 kittens (1.3.3-1kern5) xenial; urgency=medium
 
   * add kitten actually to the python-kittens package
