@@ -1,12 +1,8 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
-#
-# Uncomment this to turn on verbose mode.
+
 export DH_VERBOSE=1
+export PYBUILD_NAME=astro-kittens
 
 %:
-	dh $@ --with python2
-
-override_dh_clean:
-	dh_clean
-	rm -rf astro_kittens.egg-info
+	dh $@ --with python2,python3 --buildsystem=pybuild  --parallel

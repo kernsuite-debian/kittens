@@ -5,5 +5,7 @@ files
 *.debhelper
 kittens/
 python-kittens/
+python-astro-kittens/
+python3-astro-kittens/
 tmp/
 
