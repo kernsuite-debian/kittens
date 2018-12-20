@@ -1,2 +1,2 @@
 version=3
-https://github.com/ska-sa/kittens/releases /ska-sa/kittens/archive/(\d[\.\d]+).tar.gz
+https://github.com/ska-sa/kittens/releases /ska-sa/kittens/archive/v(\d[\.\d]+).tar.gz
