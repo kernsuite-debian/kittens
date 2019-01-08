@@ -2,7 +2,14 @@ Source: kittens
 Section: python
 Priority: optional
 Maintainer: KERN packaging <packaging@kernsuite.info>
-Build-Depends: debhelper (>= 9.0.0), python-all, python-setuptools, python3-all, python3-setuptools
+Build-Depends:
+ debhelper (>= 9.0.0),
+ python-all,
+ python-setuptools,
+ python3-all,
+ python3-setuptools,
+ python-astropy,
+ python3-astropy
 Standards-Version: 3.9.7
 Homepage: https://github.com/ska-sa/kittens
 Vcs-Git: https://github.com/kernsuite-debian/kittens
