@@ -15,6 +15,7 @@ Homepage: https://github.com/ska-sa/kittens
 Vcs-Git: https://github.com/kernsuite-debian/kittens
 Vcs-Browser: https://github.com/kernsuite-debian/kittens
 X-Python-Version: 2.7
+X-Python3-Version: 3.6
 
 Package: python-astro-kittens
 Architecture: any
