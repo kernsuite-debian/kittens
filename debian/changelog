@@ -1,3 +1,10 @@
+kittens (1.4.3-1kern1) bionic; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  *  New upstream version 1.4.3
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 13 Jan 2020 11:18:38 +0200
+
 kittens (1.4.2-1kern1) bionic; urgency=medium
 
   [ Athanaseus Javas Ramaila ]
