@@ -1,3 +1,10 @@
+kittens (1.4.3-1kern1) focal; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  *  Update to Focal
+
+ -- KERN packaging <packaging@kernsuite.info>  Wed, 22 Jul 2020 11:41:34 +0000
+
 kittens (1.4.3-1kern1) bionic; urgency=medium
 
   [ Athanaseus Javas Ramaila ]

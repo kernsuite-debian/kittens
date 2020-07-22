@@ -3,25 +3,16 @@ Section: python
 Priority: optional
 Maintainer: KERN packaging <packaging@kernsuite.info>
 Build-Depends:
- debhelper (>= 9.0.0),
- python-all,
- python-setuptools,
+ debhelper (>= 9),
+ dh-python,
  python3-all,
  python3-setuptools,
- python-astropy,
  python3-astropy
-Standards-Version: 3.9.7
+Standards-Version: 4.5.0
 Homepage: https://github.com/ska-sa/kittens
 Vcs-Git: https://github.com/kernsuite-debian/kittens
 Vcs-Browser: https://github.com/kernsuite-debian/kittens
-X-Python-Version: 2.7
-X-Python3-Version: 3.6
-
-Package: python-astro-kittens
-Architecture: any
-Depends: ${python:Depends}, ${misc:Depends}
-Replaces: python-kittens
-Description: Collection of Python utility functions for purr, tigger, meqtrees and others
+X-Python3-Version: >=3.6
 
 Package: python3-astro-kittens
 Architecture: any
@@ -30,5 +21,5 @@ Description: Collection of Python utility functions for purr, tigger, meqtrees a
 
 Package: kittens
 Architecture: any
-Depends: ${misc:Depends}, python-astro-kittens
+Depends: ${misc:Depends}, python3-astro-kittens
 Description: Metapackage for kittens
