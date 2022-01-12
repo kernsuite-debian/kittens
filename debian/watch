@@ -1,2 +1,3 @@
 version=3
-https://github.com/ska-sa/kittens/releases /ska-sa/kittens/archive/v(\d[\.\d]+).tar.gz
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/<project>-$1\.tar\.gz/ \
+  https://github.com/ska-sa/kittens/tags .*/v?(\d\S*)\.tar\.gz
