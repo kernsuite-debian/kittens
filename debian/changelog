@@ -1,3 +1,10 @@
+kittens (1.4.6-1kern1) focal; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  * New upstream version 1.4.6 
+
+ -- KERN packaging <packaging@kernsuite.info>  Wed, 12 Jan 2022 14:51:40 +0000
+
 kittens (1.4.5-1kern1) focal; urgency=medium
 
   [ Athanaseus Javas Ramaila ]
