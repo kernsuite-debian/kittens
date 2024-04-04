@@ -3,16 +3,16 @@ Section: python
 Priority: optional
 Maintainer: KERN packaging <packaging@kernsuite.info>
 Build-Depends:
- debhelper (>=11),
+ debhelper-compat (= 13),
  dh-python,
  python3-all,
  python3-setuptools,
  python3-astropy
-Standards-Version: 4.5.0
+Standards-Version: 4.6.2.0
 Homepage: https://github.com/ska-sa/kittens
 Vcs-Git: https://github.com/kernsuite-debian/kittens
 Vcs-Browser: https://github.com/kernsuite-debian/kittens
-X-Python3-Version: >=3.6
+X-Python3-Version: >=3.10
 
 Package: python3-astro-kittens
 Architecture: any
