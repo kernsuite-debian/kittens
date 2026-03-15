@@ -1,3 +1,10 @@
+kittens (1.4.6-1kern3) noble; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  * Build for noble
+
+ -- KERN packaging <packaging@kernsuite.info>  Sun, 15 Mar 2026 16:24:58 +0200
+
 kittens (1.4.6-1kern2) jammy; urgency=medium
 
   [ Athanaseus Javas Ramaila ]
